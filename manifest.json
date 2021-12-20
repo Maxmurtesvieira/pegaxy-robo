@@ -1,0 +1,10 @@
+{
+    "name":"Procurador de corridas",
+    "version":"1.0",
+    "description":"Procurar corridas rapidão",
+    "browser_action":{
+        "default_popup":"index.html"
+    },
+
+    "manifest_version":2
+}
